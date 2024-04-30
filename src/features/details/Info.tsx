@@ -1,5 +1,7 @@
 import styled from 'styled-components';
 import { useNeighbors } from './use-neighbors';
+import { NavigateFunction } from 'react-router-dom';
+import { Country } from '../../../types';
 
 
 const Wrapper = styled.section`
@@ -88,7 +90,12 @@ const Tag = styled.span`
   cursor: pointer;
 `;
 
-export const Info = (props) => {
+interface InfoProp  extends Country {
+ push: NavigateFunction,
+
+}
+
+export const Info = (props : InfoProp) => {
 
   const {
     name,
