@@ -1,6 +1,6 @@
 ![image](https://github.com/user-attachments/assets/1783ffcc-83d6-4553-bc79-5c17a898cfbe)<header>
   Countries and flags app
-  <img src='assets/img/interface.jpg" width=“100”/'
+  <img src="assets/img/interface.jpg" width="100"/>
 </header>
 
 # Getting Started with Create React App
