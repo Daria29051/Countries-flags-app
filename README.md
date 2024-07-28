@@ -1,6 +1,6 @@
 <header>
 Countries and Flags App
-<img src='assets/images/interface.png' width = '50'/>
+<img src="assets/img/interface.png" width = "50"/>
 </header>
 
 
