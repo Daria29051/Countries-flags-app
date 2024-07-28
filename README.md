@@ -1,6 +1,7 @@
-# Countries and Flags - countries and their flags search website <br/>
- <img src="assets/img/interface.png" width=“100”/>
-</div>
+# Countries and Flags <br/>
+Countries and their flags search website
+<img src="src/assets/img/interface.png" width=“100”/>
+
 
 
 # Getting Started with Create React App
