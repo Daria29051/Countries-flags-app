@@ -1,7 +1,6 @@
-<header>
-Countries and Flags App
-<img src="assets/img/interface.png" width = "50"/>
-</header>
+# Countries and Flags - countries and their flags search website <br/>
+ <img src="assets/img/interface.png" width=“100”/>
+</div>
 
 
 # Getting Started with Create React App
