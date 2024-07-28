@@ -1,6 +1,6 @@
 # Countries and Flags <br/>
 Countries and their flags search website
-<img src="src/assets/img/interface.png" width=“100”/>
+<img src="src/assets/img/interface.png" width=50”/>
 
 
 
