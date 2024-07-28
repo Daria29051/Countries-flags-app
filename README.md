@@ -6,6 +6,14 @@ Countries and their flags search website <br/>
 https://daria29051.github.io/Countries-flags-app/
 
 ## Getting Started
-
-In the project directory, you can run:
+In the project directory, you can run: <br/>
 <strong>  npm run start </strong>
+
+## Functionality <br/>
+1. Countries search <br/>
+It includes direct recipe search, as well as extra filters, such as:
+- Cuisine;
+- Meal type;
+- Dish type;
+- Diet type;
+- Extra parametrs.
