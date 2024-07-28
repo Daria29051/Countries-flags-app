@@ -1,4 +1,4 @@
-import { Routes, Route,} from 'react-router-dom';
+import { Routes, Route, HashRouter,} from 'react-router-dom';
 
 import { Header } from './components/Header';
 import { Main } from './components/Main';
@@ -12,6 +12,7 @@ function App() {
     <>
       <Header />
       <Main>
+        <HashRouter>
         <Routes>
           <Route path="/" element={
             <HomePage />
@@ -19,6 +20,7 @@ function App() {
           <Route path="/country/:name" element={<Details />} />
           <Route path="*" element={<NotFound />} />
         </Routes>
+        </HashRouter>
       </Main>
 
     </>
