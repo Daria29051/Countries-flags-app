@@ -21,3 +21,6 @@ Core country info <br/>
 Interactive border countries list<br/><br/>
 
 3. Theme changer (light to dark) <br/>
+
+## Technologies <br/>
+HTML, CSS, React, Redux, TypeScript
