@@ -10,4 +10,13 @@ In the project directory, you can run: <br/>
 
 ## Functionality <br/>
 1. Countries search <br/>
-It includes 
+It includes:  <br/>
+Search for a country<br/>
+Filter by region<br/><br/>
+
+2. Country info card <br/>
+It includes:  <br/>
+Core country info <br/>
+Interactive border countries list<br/><br/>
+
+3. Theme changer (light to dark) <br/>
