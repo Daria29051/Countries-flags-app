@@ -22,4 +22,4 @@ In the project directory, you can run: <br/>
 	&bull; Changing theme from light to dark  <br/><br/>
 
 ## Technologies <br/>
-HTML, CSS, React, Redux, TypeScript<br/><br/>
+HTML, CSS, JavaScript, React, Redux, TypeScript<br/><br/>
